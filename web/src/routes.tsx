@@ -12,7 +12,7 @@ const routes = () => {
         <Route path="/app" component={OrphanagesMap} />
       </Switch>
     </BrowserRouter>
-  );
+  ); 
 };
 
 export default routes;
